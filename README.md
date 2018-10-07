@@ -14,10 +14,12 @@
 
 #Build The Project
 1. Create new database and set the name as "projectKp"
-1. Open Terminal
-2. Path to your project terminal$: cd pencatatan-berkas-pensiun-laravel
-3. terminal$: php artisan migrate (This action will migrate all database on folder database to mysql)
-3. terminal$: php artisan serve (It will run the project temporarily and you can acces it by 127.0.0.1:8000)
-4. Now register new user on 127.0.0.1:8000/register
+2. Open .env and edit username and password as yours mysql
+3. Open Terminal
+4. Path to your project terminal$: cd pencatatan-berkas-pensiun-laravel
+5. terminal$: php artisan migrate (This action will migrate all database on folder database to mysql)
+6. terminal$: php artisan serve (It will run the project temporarily and you can acces it by 127.0.0.1:8000)
+7. Now register new user on 127.0.0.1:8000/register
 
 
+#Ahmad Mirlan
